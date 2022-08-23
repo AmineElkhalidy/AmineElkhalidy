@@ -20,14 +20,6 @@ I am **Amine Elkhalidy**, I am from **Morocco**, I am a **FRONTEND WEB** develop
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amineelkhalidy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 **NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.**   
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amineelkhalidy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amineelkhalidy&" alt="amineelkhalidy" /></p>   
-
-<table>
-  <tr>
-    <td valign="top">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amineelkhalidy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) </td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amineelkhalidy&" alt="amineelkhalidy" /></td>
-  </tr>
-</table>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amineelkhalidy&" alt="amineelkhalidy" /></p> 
