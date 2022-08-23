@@ -23,4 +23,4 @@ I am **Amine Elkhalidy**, I am from **Morocco**, I am a **FRONTEND WEB** develop
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amineelkhalidy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amineelkhalidy&" alt="amineelkhalidy" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amineelkhalidy&" alt="amineelkhalidy" /></p>
