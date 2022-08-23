@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/amineelkhalidy/count.svg" />
 </p>
 
 I am **Amine Elkhalidy**, I am from **Morocco**, I am a **FRONTEND WEB** developer, passionate about web technologies and having fun when it comes to learn new languages, libraries or frameworks... I am trying to improve my skills and take them to the next level by working on real world projects...   
