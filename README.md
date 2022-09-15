@@ -28,8 +28,6 @@ I am seeking to take my skills to the next level by working on *real world proje
 ✔️ TypeScript   
 ✔️ Styled components   
 
-<p><img align="center" src="(https://streak-stats.demolab.com?user=AmineElkhalidy&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" alt="amineelkhalidy" /></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmineElkhalidy&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
