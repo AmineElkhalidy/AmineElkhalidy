@@ -28,7 +28,12 @@ I am seeking to take my skills to the next level by working on *real world proje
 ✔️ TypeScript   
 ✔️ Styled components   
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmineElkhalidy&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AmineElkhalidy&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
+
+### Get in touch:   
+- Email: ([email](a.amineelkhalidy@gmail.com))   
+- Facebook: ([facebook](https://www.facebook.com/amine.elkhalidy.73))   
+- LinkedIn: 
 
 
    
