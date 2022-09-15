@@ -8,6 +8,24 @@ I am seeking to take my skills to the next level by working on *real world proje
 > I am opened to freelancing or working remotly opportunities...   
 
 ### My services:   
-![image](https://user-images.githubusercontent.com/73119793/190381332-577e6072-1aca-4089-9baf-6438a4c65e77.png)
+✔️ Front web app   
+✔️ Pixel Perfect design   
+✔️ Responsive design   
+✔️ Components & Layouts development   
+✔️ Authentication   
+✔️ API integration   
+✔️ Database integration   
+
+### Frontend technologies I master:   
+✔️ HTML5 & CSS3   
+✔️ JavaScript   
+✔️ Sass   
+✔️ TailwindCss   
+✔️ React.js   
+✔️ Next.js   
+✔️ TypeScript   
+✔️ Styled components   
+
+
 
 
