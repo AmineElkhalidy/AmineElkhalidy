@@ -9,16 +9,18 @@ I am seeking to take my skills to the next level by working on *real world proje
 👨‍💻 All of my projects are available at: [**amineelkhalidy.vercel.app**](amineelkhalidy.vercel.app)   
 > I am opened to freelancing or working remotly opportunities...   
 
-### My services:   
+<div>
+  <div align="left">
+  ### My services:
 ✔️ Front web app   
 ✔️ Pixel Perfect design   
 ✔️ Responsive design   
 ✔️ Components & Layouts development   
 ✔️ Authentication   
 ✔️ API integration   
-✔️ Database integration   
-
-### Frontend technologies I master:   
+✔️ Database integration</div>
+  <div align="right">
+  ### Frontend technologies I master:   
 ✔️ HTML5 & CSS3   
 ✔️ JavaScript   
 ✔️ Sass   
@@ -26,7 +28,11 @@ I am seeking to take my skills to the next level by working on *real world proje
 ✔️ React.js   
 ✔️ Next.js   
 ✔️ TypeScript   
-✔️ Styled components   
+✔️ Styled components</div>
+</div>
+   
+
+   
 
 
 
