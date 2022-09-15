@@ -32,7 +32,7 @@ I am seeking to take my skills to the next level by working on *real world proje
 
 ### Get in touch with me using:   
 - Email: [a.amineelkhalidy@gmail.com](a.amineelkhalidy@gmail.com)
-- Facebook: [https://www.facebook.com/amine.elkhalidy.73)](https://www.facebook.com/amine.elkhalidy.73) 
+- Facebook: [https://www.facebook.com/amine.elkhalidy.73](https://www.facebook.com/amine.elkhalidy.73) 
 - Upwork: [https://www.upwork.com/freelancers/~01f55a2d4b119d3119](https://www.upwork.com/freelancers/~01f55a2d4b119d3119)
 
 
