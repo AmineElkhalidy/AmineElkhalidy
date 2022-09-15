@@ -7,3 +7,7 @@ I am seeking to take my skills to the next level by working on *real world proje
 👨‍💻 All of my projects are available at: [**amineelkhalidy.vercel.app**](amineelkhalidy.vercel.app)   
 > I am opened to freelancing or working remotly opportunities...   
 
+### My services:   
+![image](https://user-images.githubusercontent.com/73119793/190381332-577e6072-1aca-4089-9baf-6438a4c65e77.png)
+
+
