@@ -19,7 +19,6 @@ I am seeking to take my skills to the next level by working on *real world proje
 ✔️ API integration   
 ✔️ Database integration
 
-<p style="float: right;">
 ### Frontend technologies I master:   
 ✔️ HTML5 & CSS3   
 ✔️ JavaScript   
@@ -29,7 +28,7 @@ I am seeking to take my skills to the next level by working on *real world proje
 ✔️ Next.js   
 ✔️ TypeScript   
 ✔️ Styled components 
-</p>
+
   
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmineElkhalidy&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
