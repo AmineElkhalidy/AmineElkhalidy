@@ -9,25 +9,25 @@ I am seeking to take my skills to the next level by working on *real world proje
 - 👨‍💻 All of my projects are available at: [**amineelkhalidy.vercel.app**](amineelkhalidy.vercel.app)   
 > I am opened to freelancing or working remotly opportunities...   
 
-### My services:
-✔️ PSD to HTML   
-✔️ Front web app   
-✔️ Pixel Perfect design   
-✔️ Responsive design   
-✔️ Components & Layouts development   
-✔️ Authentication   
-✔️ API integration   
-✔️ Database integration
+### My services:  
+✅ PSD to HTML   
+✅ Front web app   
+✅ Pixel Perfect design   
+✅ Responsive design   
+✅ Components & Layouts development   
+✅ Authentication   
+✅ API integration   
+✅ Database integration
 
 ### Frontend technologies I master: 
-✔️ HTML5 & CSS3   
-✔️ JavaScript   
-✔️ Sass   
-✔️ TailwindCss   
-✔️ React.js   
-✔️ Next.js   
-✔️ TypeScript   
-✔️ Styled components 
+✅ HTML5 & CSS3   
+✅ JavaScript   
+✅ Sass   
+✅ TailwindCss   
+✅ React.js   
+✅ Next.js   
+✅ TypeScript   
+✅ Styled components 
 
   
 
