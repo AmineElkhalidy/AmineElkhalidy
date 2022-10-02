@@ -20,10 +20,10 @@ I am seeking to take my skills to the next level by working on *real world proje
 ✅ Database integration
 
 ### Frontend technologies I master: 
-✅ HTML5 & CSS3/ Sass
+✅ HTML5 & CSS3/ Sass   
 ✅ JavaScript     
 ✅ TailwindCss   
-✅ React.js/ TypeScript
+✅ React.js/ TypeScript   
 ✅ Next.js     
 ✅ Styled components 
 
