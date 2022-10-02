@@ -10,6 +10,7 @@ I am seeking to take my skills to the next level by working on *real world proje
 > I am opened to freelancing or working remotly opportunities...   
 
 ### My services:  
+✔️ PSD to HTML
 ✔️ Front web app   
 ✔️ Pixel Perfect design   
 ✔️ Responsive design   
