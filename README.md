@@ -14,7 +14,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmineElkhalidy&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
 
 ### Get in touch with me using:   
-- Email: [a.amineelkhalidy@gmail.com](a.amineelkhalidy@gmail.com)
+- Email: a.amineelkhalidy@gmail.com
 - Facebook: [https://www.facebook.com/amine.elkhalidy.73](https://www.facebook.com/amine.elkhalidy.73) 
 - Upwork: [https://www.upwork.com/freelancers/~01f55a2d4b119d3119](https://www.upwork.com/freelancers/~01f55a2d4b119d3119)
 
