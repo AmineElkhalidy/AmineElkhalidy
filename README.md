@@ -2,10 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=AmineElkhalidy&color=blueviolet&style=for-the-badge) 
 
-Hi 👋, I am **Amine Elkhalidy**, a **FrontEnd web developer** with almost two years of professional experience through freelancing on popular freelancing platforms as *Upwork, Freelancer, Fiver, etc...*   
-
-I am interested in **web technologies** and I really *enjoy* when it comes to learn something new, like a new *language, library or framework...*   
-I am seeking to take my skills to the next level by working on *real world projects*.   
+- Hi 👋, I am **Amine Elkhalidy** 
+  - ‍💻 I am a Front End developer.
+  - 🌱 I work as a freelancer on Upwork for half year.
+  - 📄 About 2 years of professional experience through freelancing.
+  - ❤️ Interested in web technologies, mainly React.js.
 
 - 👨‍💻 All of my projects are available at: [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)   
 > I am opened to freelancing or working remotly opportunities...   
