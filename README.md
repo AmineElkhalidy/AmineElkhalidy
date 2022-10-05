@@ -11,26 +11,6 @@
 - 👨‍💻 All of my projects are available at: [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)   
 > I am opened to freelancing or working remotly opportunities...   
 
-### My services:  
-✅ PSD to HTML   
-✅ Front web app   
-✅ Pixel Perfect design   
-✅ Responsive design   
-✅ Components & Layouts development   
-✅ Authentication   
-✅ API integration   
-✅ Database integration
-
-### Frontend technologies I master: 
-✅ HTML5 & CSS3/ Sass   
-✅ JavaScript     
-✅ TailwindCss   
-✅ React.js/ TypeScript   
-✅ Next.js     
-✅ Styled components 
-
-  
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmineElkhalidy&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
 
 ### Get in touch with me using:   
