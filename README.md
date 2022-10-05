@@ -1,7 +1,5 @@
 ![Welcoming image from my portfolio](./introduction.png)   
 
-![](https://komarev.com/ghpvc/?username=AmineElkhalidy&color=blueviolet&style=for-the-badge) 
-
 - Hi 👋, I am **Amine Elkhalidy** 
   - ‍💻 I am a Front End developer.
   - 🌱 I work as a freelancer on Upwork for half year.
