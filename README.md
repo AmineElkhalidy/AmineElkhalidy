@@ -7,7 +7,7 @@
   - ❤️ Interested in **web technologies**, mainly **React.js**.
 
 - 👨‍💻 All of my projects are available at: [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)   
-> I am opened to freelancing or working remotly opportunities...   
+> I am opened for freelancing or working remotly opportunities...   
 
 ### Get in touch with me using:   
 - Email: a.amineelkhalidy@gmail.com
