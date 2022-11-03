@@ -11,7 +11,7 @@
 
 ### Get in touch with me using:   
 - Email: a.amineelkhalidy@gmail.com
-- Facebook: [https://www.facebook.com/amine.elkhalidy.73](https://www.facebook.com/amine.elkhalidy.73) 
+- Linkedin: [https://www.linkedin.com/in/amine-elkhalidy/](https://www.linkedin.com/in/amine-elkhalidy/)
 - Upwork: [https://www.upwork.com/freelancers/~01f55a2d4b119d3119](https://www.upwork.com/freelancers/~01f55a2d4b119d3119)
 
 
