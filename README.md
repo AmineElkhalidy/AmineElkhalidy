@@ -4,7 +4,7 @@
   - ‍💻 I am a **Front-End web developer**.
   - 🌱 I am working as a freelancer on [Upwork](https://www.upwork.com/).
   - 📄 About **2 years of professional experience** trough freelancing and working with clients.
-  - ❤️ Interested in **web technologies**, mainly **React.js**.
+  - ❤️ Passionate about **web technologies**, mainly **React.js**.
 
 - 👨‍💻 All of my projects are available at: [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)   
 > I am opened for freelancing or working remotly opportunities...   
