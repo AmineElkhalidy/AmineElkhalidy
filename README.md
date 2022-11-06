@@ -11,9 +11,9 @@
 
 ### Get in touch with me using:   
 - Email: a.amineelkhalidy@gmail.com
-- Upwork: [https://www.upwork.com/freelancers/~01f55a2d4b119d3119](https://www.upwork.com/freelancers/~01f55a2d4b119d3119)
+- Upwork: [Amine Elkhalidy](https://www.upwork.com/freelancers/~01f55a2d4b119d3119)
 - Twitter: [@ElkhalidyAmine](https://twitter.com/ElkhalidyAmine)
-- Linkedin: [https://www.linkedin.com/in/amine-elkhalidy/](https://www.linkedin.com/in/amine-elkhalidy/)
+- Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
 
 
 
