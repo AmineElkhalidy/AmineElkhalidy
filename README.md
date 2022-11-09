@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at: [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)   
 > I am opened for freelancing or working remotly opportunities...   
 
-### Get in touch with me using:   
+### Get in touch:   
 - Email: amineelkhalidy.a@gmail.com
 - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
 - Twitter: [@ElkhalidyAmine](https://twitter.com/ElkhalidyAmine)
