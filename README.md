@@ -1,6 +1,6 @@
 ![Welcoming image from my portfolio](./introduction.png)   
 
-- Hello 👋, I am **Amine Elkhalidy** 
+- Hello 👋, My name is **Amine Elkhalidy** 
   - ‍<> I am a **Front-End web developer**.
   - ❤️ Passionate about **web technologies**, mainly **React.js**.
   - 💻 I am working as a freelancer on [Upwork](https://www.upwork.com/).
