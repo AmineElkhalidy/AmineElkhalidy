@@ -11,8 +11,9 @@
 
 ### Get in touch with me using:   
 - Email: amineelkhalidy.a@gmail.com
-- Twitter: [@ElkhalidyAmine](https://twitter.com/ElkhalidyAmine)
 - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
+- Twitter: [@ElkhalidyAmine](https://twitter.com/ElkhalidyAmine)
+
 
 
 
