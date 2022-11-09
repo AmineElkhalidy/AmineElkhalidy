@@ -3,7 +3,7 @@
 - Hi 👋, I am **Amine Elkhalidy** 
   - ‍💻 I am a **Front-End web developer**.
   - 🌱 I am working as a freelancer on [Upwork](https://www.upwork.com/).
-  - 📄 About **2 years of professional experience** trough freelancing and working with clients.
+  - 📄 About **1 years of professional experience** trough freelancing and working with clients.
   - ❤️ Passionate about **web technologies**, mainly **React.js**.
 
 - 👨‍💻 All of my projects are available at: [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)   
