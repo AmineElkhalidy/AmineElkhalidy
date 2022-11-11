@@ -2,7 +2,7 @@
 
 - Hello 👋, My name is **Amine Elkhalidy**
   - ‍👨‍💻 I am a **Front-End web developer**.
-  -  Passionate about **web technologies**, mainly **Reactjs**.
+  - ⚛️ Passionate about **web technologies**, mainly **Reactjs**.
   - 💻 I am working as a freelancer on [Upwork](https://www.upwork.com/).
   - ⌛ About **a year of professional experience** trough freelancing and working with clients.
  
