@@ -13,7 +13,6 @@
 ### Get in touch:   
 - Email: amineelkhalidy.a@gmail.com
 - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
-- Twitter: [@ElkhalidyAmine](https://twitter.com/ElkhalidyAmine)
 
 
 
