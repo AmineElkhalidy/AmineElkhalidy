@@ -4,7 +4,7 @@
   - 👨‍💻 I am working as a freelancer on **Upwork**.
   - ⌛ About **a year of professional experience** trough freelancing and working with clients.
  
- - 👨‍💻 **All of my projects are available at: [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)   **
+ - 👨‍💻 **All of my projects are available at:** [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)
 
 > I am opened for freelancing or working remotly opportunities...   
 
