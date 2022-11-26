@@ -1,3 +1,4 @@
+![introduction image](./introduction.png)
 - Hello 👋, My name is **Amine Elkhalidy**
   - ‍💻 I am a **Front-End web developer**.
   - ⚛️ Passionate about **web technologies**, mainly **Reactjs**.
