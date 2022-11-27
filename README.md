@@ -4,8 +4,8 @@
   - ⚛️ Passionate about **web technologies**, mainly **Reactjs**.
   - 👨‍💻 I am working as a freelancer on **Upwork**.
   - ⌛ About **a year of professional experience** through freelancing and working with clients.
-  - 🤓 Self taught Developer
-  - 🎯 Goal : To be a better Developer
+  - 🤓 Self taught developer.
+  - 🎯 Goal : To be the best developer.
  
  - 👨‍💻 **All of my projects are available at:** [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)
 
