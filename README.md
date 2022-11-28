@@ -7,7 +7,7 @@
   - 🤓 Self taught developer.
   - 🎯 Goal : To be the best developer.
  
- - 👨‍💻 **All of my projects are available at:** [amineelkhalidy.vercel.app](https://amineelkhalidy.vercel.app)
+ - 👨‍💻 **All of my projects are available at:** [amineelkhalidy.com](https://www.amineelkhalidy.com)
 
 > I am opened for freelancing or working remotly opportunities...   
 
