@@ -6,14 +6,13 @@
   - ⌛ About **a year of professional experience** through freelancing and working with clients.
   - 🤓 Self taught developer.
   - 🎯 Goal : To be the best developer.
+  - 📫 How to reach me:
+    - Email: amineelkhalidy.a@gmail.com
+    - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
  
  - 👨‍💻 **All of my projects are available at:** [amineelkhalidy.com](https://www.amineelkhalidy.com)
 
-> I am opened for freelancing or working remotly opportunities...   
-
-### Get in touch:   
-- Email: amineelkhalidy.a@gmail.com
-- Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
+> I am opened for freelancing or working remotly opportunities...
 
 
 
