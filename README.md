@@ -10,7 +10,7 @@
     - Email: amineelkhalidy.a@gmail.com
     - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
  
- - 👨‍💻 **All of my projects are available at:** [amineelkhalidy.com](https://www.amineelkhalidy.com)
+ - 👨‍💻 **Most of my projects are available at:** [amineelkhalidy.com](https://www.amineelkhalidy.com)
 
 > I am opened for freelancing or working remotly opportunities...
 
