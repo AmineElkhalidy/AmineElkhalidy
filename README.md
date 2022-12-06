@@ -12,7 +12,6 @@
  
  - 👨‍💻 **Most of my projects are available at:** [amineelkhalidy.com](https://www.amineelkhalidy.com)
 
-> I am opened for freelancing or working remotly opportunities...
 
 
 
