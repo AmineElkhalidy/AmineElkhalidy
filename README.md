@@ -12,8 +12,6 @@
  
  - 👨‍💻 **Most of my projects are available at:** [amineelkhalidy.com](https://www.amineelkhalidy.com)
  
- 
- Thank you for visiting my profile.
 
 
 
