@@ -10,10 +10,8 @@
     - Email: amineelkhalidy.a@gmail.com
     - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
  
- - 👨‍💻 **Most of my projects are available at:** [amineelkhalidy.com](https://www.amineelkhalidy.com)   
- Thank you for visiting my profile :)
-
-   
+ - 👨‍💻 **Most of my projects are available at:** [amineelkhalidy.com](https://www.amineelkhalidy.com)
+ - Thank you for visiting my profile :) 
 
    
 
