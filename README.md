@@ -1,5 +1,5 @@
 - Hello 👋, My name is **Amine Elkhalidy**
-  - ‍💻 I am a **Front-End web developer**.
+  - ‍💻 **Front-End web developer**.
   - ⚛️ Passionate about **web technologies**.
   - 👨‍💻 I am working as a freelancer on **Upwork**.
   - ⌛ About **a year of professional experience** through freelancing and working with clients.
