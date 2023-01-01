@@ -5,7 +5,6 @@
   - 👨‍💻 I am working as a freelancer on **Upwork**.
   - ⌛ About **a year of professional experience** through freelancing and working with clients.
   - 🤓 Self taught developer.
-  - 🎯 Goal : To be the best developer.
   - 📫 How to reach me:
     - Email: amineelkhalidy.a@gmail.com
     - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
