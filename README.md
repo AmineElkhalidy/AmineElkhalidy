@@ -1,5 +1,5 @@
 ![](./introduction.png)
-- Hello, My name is **Amine Elkhalidy**
+- Hello, My name is *Amine Elkhalidy*
   - ‍💻 **Front-End web developer**.
   - ⚛️ Passionate about **web technologies**.
   - 👨‍💻 I am working as a freelancer on **Upwork**.
