@@ -1,7 +1,7 @@
 ![](./introduction.png)
 - Hello, My name is **Amine Elkhalidy**
   - ‍💻 **Front-End web developer**.
-  - ⚛️ Passionate about **web technologies**.
+  - ⚛️ Passionate about **web technologies**? mainly **REACT**.
   - 👨‍💻 I am working as a freelancer on **Upwork**.
   - ⌛ About **a year of professional experience** through freelancing and working with clients.
   - 🤓 Self taught developer.
