@@ -1,5 +1,5 @@
 ![](./my-portfolio.png)
-- Hello, My name is **Amine Elkhalidy**
+- Hi, My name is **Amine Elkhalidy**
   - ‍💻 **Front-End web developer**.
   - ⚛️ Passionate about **web technologies**.
   - 👨‍💻 I am working as a freelancer on **Upwork**.
