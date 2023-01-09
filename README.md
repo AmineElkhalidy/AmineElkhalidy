@@ -1,4 +1,4 @@
-![](./portfolio.png)
+![](./my-portfolio.png)
 - Hello, My name is **Amine Elkhalidy**
   - ‍💻 **Front-End web developer**.
   - ⚛️ Passionate about **web technologies**.
