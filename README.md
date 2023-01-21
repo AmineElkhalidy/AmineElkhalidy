@@ -6,7 +6,7 @@
   - ‍💻 **Front-End web developer**.
   - ⚛️ Passionate about **web technologies**.
   - 👨‍💻 I am working as a freelancer on **Upwork**.
-  - ⌛ About **a year of professional experience** through freelancing and working with clients.
+  - ⌛ **a year of professional experience** through freelancing and working with clients.
   - 🤓 Self taught developer.
   - 📫 How to reach me:
     - Email: amineelkhalidy.a@gmail.com
