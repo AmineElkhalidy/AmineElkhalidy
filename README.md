@@ -2,7 +2,7 @@
 
 ![](./dark.png)   
 
-- Hi, My name is **Amine Elkhalidy**
+- Hi, I am **Amine Elkhalidy**
   - ‍💻 **Front-End web developer**.
   - ⚛️ Passionate about **web technologies**.
   - 👨‍💻 I am working as a freelancer on **Upwork**.
