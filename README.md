@@ -1,7 +1,5 @@
 ![](./light.png)   
 
-![](./dark.png)   
-
 - Hello, I am **Amine Elkhalidy**
   - ‍💻 **Front-End web developer**.
   - ⚛️ Passionate about **web technologies**.
