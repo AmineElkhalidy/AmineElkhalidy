@@ -1,7 +1,7 @@
 ![](./light.png)   
 
 - Hello, I am **Amine Elkhalidy**
-  - ‍💻 **Front-End developer**.
+  - ‍💻 **Front-End web developer**.
   - ⚛️ Passionate about **web technologies**.
   - 👨‍💻 I am working as a **freelancer** on **Upwork**.
   - ⌛ **A year of professional experience** through freelancing.
