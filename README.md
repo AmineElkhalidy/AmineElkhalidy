@@ -1,16 +1,16 @@
 ![](./light.png)   
 
-- Hi 👋, I am **Amine Elkhalidy**
-  - ‍💻 **Front-End web developer**.
+- Hello 👋, My name is **Amine Elkhalidy**
+  - ‍💻 **Web developer**.
   - ⚛️ Passionate about **web technologies**.
   - 👨‍💻 I am working as a **freelancer** on **Upwork**.
-  - ⌛ **A year of professional experience** through freelancing.
+  - ⌛ **About two year of professional experience** through freelancing.
   - 🤓 **Self taught developer**.
   - 📫 How to reach me:
-    - Email: amineelkhalidy.a@gmail.com
+    - Email: a.amineelkhalidy@gmail.com
     - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
  
- - 👨‍💻 **Most of my projects are are listed on my portfolio at: [amineelkhalidy.com](https://www.amineelkhalidy.com)**
+ - 👨‍💻 **Most of my projects are listed on my portfolio at: [amineelkhalidy.com](https://www.amineelkhalidy.com)**
 
    
 
