@@ -10,7 +10,7 @@
     - Email: a.amineelkhalidy@gmail.com
     - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
  
- - 👨‍💻 **Most of my projects are listed on my portfolio at: [amineelkhalidy.com](https://www.amineelkhalidy.com)**
+ - 👨‍💻 **For more about me, Do not hesitate to visit my portfolio at: [amineelkhalidy.com](https://www.amineelkhalidy.com)**
 
    
 
