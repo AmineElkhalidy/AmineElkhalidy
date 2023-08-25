@@ -1,5 +1,3 @@
-![](./light.png)   
-
 - Hello 👋, My name is **Amine Elkhalidy**
   - ‍💻 **Web developer**.
   - ⚛️ Passionate about **web technologies**.
