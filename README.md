@@ -9,6 +9,8 @@
     - Linkedin: [@ElkhalidyAmine](https://www.linkedin.com/in/amine-elkhalidy/)
  
  - 👨‍💻 **For more about me, Do not hesitate to visit my portfolio at: [amineelkhalidy.com](https://www.amineelkhalidy.com)**
+ - > **Note**
+Github is not tracking my pushing activity anymore for unknown reasons, don't take the table of the activity tracking serious, thank you :)
 
    
 
