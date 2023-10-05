@@ -1,4 +1,4 @@
-- Hello 👋, My name is **Amine Elkhalidy**
+- Hi 👋, I am **Amine Elkhalidy**;
   - ‍💻 **Web developer**.
   - ⚛️ Passionate about **web technologies**.
   - 👨‍💻 I am working as a **freelancer** on **Upwork**.
