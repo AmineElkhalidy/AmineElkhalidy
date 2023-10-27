@@ -1,8 +1,8 @@
 - Hello👋, I am **Amine Elkhalidy**;
-  - ‍💻 **web developer**.
-  - ⚛️ Passionate about **web technologies**.
-  - 👨‍💻 I am working as a **freelancer** on **Upwork**.
-  - ⌛ **About two year of professional experience** through freelancing.
+  - ‍💻 **Front-End Web Developer**.
+  - ⚛️ Passionate about **Web Technologies**.
+  - 👨‍💻 I am working as a **Freelancer** on **Upwork**.
+  - ⌛ **About 2 years of professional experience** through freelancing.
   - 🤓 **Self taught developer**.
   - 📫 How to reach me:
     - Email: a.amineelkhalidy@gmail.com
