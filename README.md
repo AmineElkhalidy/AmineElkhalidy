@@ -1,5 +1,5 @@
-- Hi 👋, I am **Amine Elkhalidy**;
-  - ‍💻 **Web developer**.
+- Hello👋, I am **Amine Elkhalidy**;
+  - ‍💻 **web developer**.
   - ⚛️ Passionate about **web technologies**.
   - 👨‍💻 I am working as a **freelancer** on **Upwork**.
   - ⌛ **About two year of professional experience** through freelancing.
