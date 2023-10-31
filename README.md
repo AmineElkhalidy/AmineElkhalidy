@@ -1,7 +1,7 @@
 - Hi there👋, My name is **Amine Elkhalidy** and I am a:
   - ‍💻 **Front-End Web Developer**.
   - ⚛️ Passionate about **Web Technologies**.
-  - 👨‍💻 I am working as a **Freelancer** on **Upwork**.
+  - 👨‍💻 **Freelancer** on **Upwork**.
   - ⌛ **About 2 years of professional experience**.
   - 🤓 **Self taught developer**.
   - 📫 How to reach me:
