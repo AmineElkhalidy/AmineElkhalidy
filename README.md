@@ -1,4 +1,4 @@
-![My Portfolio Image](light.png)
+![My Portfolio Image](image.png)
 - Hello there👋, I am **Amine Elkhalidy**
   - ‍💻 I am a **Front-End Web Developer**.
   - ⚛️ I am Passionate about **Web Technologies**.
