@@ -3,7 +3,7 @@
   - ‍💻 I am a **Front-End Web Developer**.
   - ⚛️ I am Passionate about **Web Technologies**.
   - 👨‍💻 I am working as a **Freelancer** on **Upwork**.
-  - ⌛ About ** 2 years of professional experience**.
+  - ⌛ I've About ** 2 years of professional experience**.
   - 🤓 I am a **Self taught developer**.
   - 📫 Here is How you can reach me:
     - Email: a.amineelkhalidy@gmail.com
