@@ -1,5 +1,5 @@
 ![My Portfolio Image](image.png)
-- Hi👋, My name is **Amine Elkhalidy**:
+- Hi👋, My name is **Amine Elkhalidy** and here is a summary about who I am:
   - ‍💻 I am a **Front-End Web Developer**.
   - ⚛️ I am Passionate about **Web Technologies**.
   - 👨‍💻 I am working as a **Freelancer** on **Upwork**.
