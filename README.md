@@ -1,4 +1,3 @@
-![portfolio image](best-version.png)
 - Hello and Welcome to my Github profile👋, I am **Amine Elkhalidy** and:
   - ‍💻 I am a **Front-End Web Developer**.
   - ⚛️ I am Passionate about **Web Technologies**.
