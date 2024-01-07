@@ -6,9 +6,9 @@
   - ⌛ I've About ** 2 years of professional experience**.
   - 🤓 I am a **Self taught developer**.
   - Tech Stack I admire:   
-        - Next.js
-        - Sveltekit
-        - Firebase, MongoDB
+        - Next.js   
+        - Sveltekit   
+        - Firebase, MongoDB   
         - TailwindCSS
  
  - For more about me, Do not hesitate to visit **MY PORTFOLIO** at: [amineelkhalidy.com](https://www.amineelkhalidy.com)
