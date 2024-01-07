@@ -5,7 +5,7 @@
   - 👨‍💻 I am working as a **Freelancer** on **Upwork**.
   - ⌛ I've About ** 2 years of professional experience**.
   - 🤓 I am a **Self taught developer**.
-  - Tech Stack I admire:
+  - Tech Stack I admire:   
         - Next.js
         - Sveltekit
         - Firebase, MongoDB
