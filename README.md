@@ -1,4 +1,3 @@
-![portfolio image](latest.png)
 - Hello & Welcome to My Profile, I am **Amine Elkhalidy** and:
   - ‍💻 I am a **Front-End Web Developer**.
   - ⚛️ I am Passionate about **Web Technologies**.
