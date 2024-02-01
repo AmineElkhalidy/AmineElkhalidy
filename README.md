@@ -1,4 +1,4 @@
-- Hello, I am **Amine Elkhalidy**:
+- Hello there, I am **Amine Elkhalidy**:
   - ‍💻 I am a **Front-End Web Developer**.
   - ⚛️ I am Passionate about **Web Technologies**.
   - 👨‍💻 I am working as a **Freelancer** on **Upwork & Fiverr**.
