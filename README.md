@@ -4,7 +4,7 @@
   - 👨‍💻 I am working as a **Freelancer** on **Upwork & Fiverr**.
   - ⌛ I've About **2 years of professional experience**.
   - 🤓 I am a **Self taught developer**.
- - For more about me, visit **MY PORTFOLIO** at: [amineelkhalidy.com](https://www.amineelkhalidy.com)
+ - for more about me, visit **My Portfolio** at: [amineelkhalidy.com](https://www.amineelkhalidy.com)
 
    
 
