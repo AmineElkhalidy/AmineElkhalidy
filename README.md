@@ -1,4 +1,3 @@
-## Welcome to My GitHub Profile! 👋
 Hello there! I'm Amine Elkhalidy, a **React ~ Next.js Front-End Web Developer** passionate about creating engaging web experiences.
 
 ### About Me
