@@ -1,6 +1,7 @@
-Hello there! I'm Amine Elkhalidy   
+Hello there!   
+I'm Amine Elkhalidy   
 I am a **Next.js Front-End Web Developer**   
-Passionate about creating engaging web experiences.
+Passionate about creating digital experiences that matters.
 
 ### About Me
 - 💻 **Professional Experience:** Over 2 years of experience in front-end development.
