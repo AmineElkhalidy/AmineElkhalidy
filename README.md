@@ -1,5 +1,5 @@
 Hello there!   
-I'm Amine Elkhalidy   
+I'm **Amine Elkhalidy**   
 I am a **Next.js Front-End Web Developer**   
 Passionate about creating & empowering digital experiences...   
 ![Amine Elkhalidy](amineelkhalidy.png)
