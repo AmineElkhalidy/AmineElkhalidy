@@ -3,7 +3,7 @@ I'm **Amine Elkhalidy**
 I am a **Next.js Front-End Web Developer**   
 Passionate about creating & empowering digital experiences...   
 
-![Amine Elkhalidy](amineelkhalidy.png)
+![Amine Elkhalidy](amineelkhalidy.webp)
 
 ### About Me
 - 💻 **Professional Experience:** Over 2 years of experience in front-end development.
