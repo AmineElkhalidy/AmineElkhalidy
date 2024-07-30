@@ -2,6 +2,7 @@ Hello there!
 I'm **Amine Elkhalidy**   
 I am a **Next.js Front-End Web Developer**   
 I excel at crafting elegant digital experiences...   
+![Portfolio](./my-portfolio.png)
 
 
 Explore more about me by visiting [My Personal Portfolio](https://www.amineelkhalidy.com).
