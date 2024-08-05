@@ -1,4 +1,5 @@
-Hey, welcome to my profile   
+Salam Aalikom 👋   
+Welcome to my profile   
 I'm **Amine Elkhalidy**   
 I am a **Next.js Front-End Web Developer**   
 I excel at crafting elegant digital experiences...   
