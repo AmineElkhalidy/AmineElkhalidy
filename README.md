@@ -4,7 +4,7 @@ I am a **Next.js Frontend Developer**
 I excel at crafting elegant digital experiences...   
 
 
-Explore more about me by visiting [My Personal Portfolio](https://www.amineelkhalidy.com)   
+Explore more about me [amineelkhalidy.com](https://www.amineelkhalidy.com)   
 Let's create something awesome together 😊🚀
 
    
