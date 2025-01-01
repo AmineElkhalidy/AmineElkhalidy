@@ -1,19 +1,16 @@
-Hi there (Salam Aalikom)! 👋   
-I'm **Amine Elkhaldy**   
-I am a **Next.js Web Developer**   
-I excel at crafting elegant digital experiences...   
+Hi there (Salam Aalikom)! 👋  
+I'm **Amine Elkhaldy**, a **Next.js Web Developer** passionate about creating user-friendly, high-performance websites and applications.  
 
-💻 **Tech Stack**:
-- Frontend: React.js, Next.js, HTML, CSS, JavaScript
-- Backend: Node.js, Express
-- Styling: TailwindCSS, SASS
-- Tools: Git, VS Code, Figma
+💻 **Tech Stack**:  
+- **Frontend**: React.js, Next.js, HTML, CSS, JavaScript  
+- **Backend**: Node.js, Express  
+- **Tools**: Git, VS Code, Figma  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amineelkhalidy&show_icons=true&theme=radical)
+🚀 **About Me**:  
+I specialize in crafting elegant digital experiences that are both functional and visually engaging. With a strong foundation in web development and a keen eye for detail, I ensure every project I work on meets modern web standards.  
 
-
-Explore more about me at [amineelkhalidy.com](https://www.amineelkhalidy.com)   
-Let's create something amazing together 😊🚀
+🌐 Explore more about me at [amineelkhalidy.com](https://www.amineelkhalidy.com).  
+🤝 Let's create something amazing together! 😊  
 
    
 
