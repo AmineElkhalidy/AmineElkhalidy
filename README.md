@@ -1,4 +1,4 @@
-Hi there (Salam Aalikom)! 👋  
+Salam Aalikom (Hi there)! 👋  
 I'm **Amine Elkhaldy**, a **Next.js Web Developer** passionate about creating user-friendly, high-performance websites and applications.  
 
 💻 **Tech Stack**:  
