@@ -1,5 +1,5 @@
 Salaam Aalikom (Hi there) 👋  
-I am **Amine Elkhalidy**, a **Next.js Web Developer**, passionate about creating user-friendly, high-performance websites and applications.  
+I am **Amine Elkhalidy**, a **FullStack Web Developer**, passionate about creating user-friendly, high-performance websites and web applications.  
 
 💻 **Tech Stack**:
 - **Frontend**: React.js, Next.js, HTML, CSS, JavaScript  
