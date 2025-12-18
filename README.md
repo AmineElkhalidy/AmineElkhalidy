@@ -1,4 +1,4 @@
-Salaam Aalikom (Hi there) 👋  
+Salaam Aalikom👋  
 I am **Amine Elkhalidy**, a **FullStack Web Developer**, passionate about creating user-friendly, high-performance websites and web applications.  
 
 💻 **Tech Stack**:
